@@ -28,4 +28,4 @@ jobs:
       - name: Build
         run: ./gradlew build
       - name: List Directory
-        run: ls -laS
+        run: ls -laRS
